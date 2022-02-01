@@ -1,0 +1,24 @@
+{
+    "Bot": {
+     "Token": "OTMwMDczNzY4MTUwMzE5MTQ0.Ydwksg.r7maerwWGGizQS8oJsBi5GKRPu0",
+     "Owners": ["849041724097691679"],
+     "Prefix": ["."],
+     "Durum": "Ramal ❤️ Essentia",
+     "Status": "dnd"
+    },
+
+    "Server": {
+     "GuildID": "914235666148261908"
+    },
+    
+    "Channels": {
+     "VoiceChannelID": "933065505848307792"
+    },
+
+    "Roles": {
+     "yes": "933065427519676436",
+     "no": "933065428585054218",
+     "yapmam": "933065429381947432"
+    }
+
+}
